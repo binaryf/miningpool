@@ -1,5 +1,9 @@
 # miningpool
 
-Opensource ethereum pool server implementation.
-Zero degrees celcious.
-Get rigged on :)
+http://miningpool.no
+
+## plan
+
+- Opensource ethereum pool server implementation.
+- Zero degrees celcious.
+- Get rigged on :)
